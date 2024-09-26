@@ -1,7 +1,7 @@
 # MusicApp
 Console-based MusicApp with various sorting and searching algorithms for songs in playlists.
  
-This project was created for the lecture "Advanced Programming" at the DHBW Lörrach
+This project was created for the lecture "Advanced Programming" at the DHBW Lörrach.
 
 Contents:
 * MusicApp_main.py: Contains all the code for the MusicApp
